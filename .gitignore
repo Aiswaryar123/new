@@ -4,3 +4,4 @@
 !*.go
 # Also keep .gitignore itself
 !.gitignore
+basics.go
